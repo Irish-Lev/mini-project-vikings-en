@@ -17,7 +17,7 @@ This project was completed as a **collaborative group activity** as part of the 
 
 **👨‍💻 Contributors:**
 
-* [Irish Levi Bawingan](https://github.com/YOUR_USERNAME)
+* [Irish Levi Bawingan](https://github.com/Irish-Lev)
 * *(Add your teammates here once available)*
 
 ---
